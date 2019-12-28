@@ -1,0 +1,2 @@
+# venvcheat
+Venv activation cheatsheet
